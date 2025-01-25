@@ -1,4 +1,4 @@
-! [] (profilepic.jpg)
+![](profilepic.jpg)
 # Zach Shallenberger
 - Email: <mailto:zshallenberger@mines.edu>
 - Location: Golden, CO
